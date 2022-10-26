@@ -4,7 +4,7 @@
 ![](https://github.com/bdraihan71/todo-vuejs/blob/main/todo.gif)
 
 ## For Backend 
-[Node js](../bdraihan71/todo-nodejs)
+[Node js](https://github.com/bdraihan71/todo-nodejs){:target="_blank" rel="noopener"}
 
 ## Project setup
 ```
