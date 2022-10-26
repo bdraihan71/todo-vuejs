@@ -1,4 +1,7 @@
-# todo
+#simple Todo 
+
+#Project Demo
+![](https://github.com/bdraihan71/todo-vuejs/blob/main/todo.gif)
 
 ## Project setup
 ```
